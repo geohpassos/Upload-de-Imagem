@@ -1,0 +1,27 @@
+div{
+    float: left;
+    padding: 1%;
+    background-color: #ccc;
+    margin: 10px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px black;
+    width: 15%;
+}
+img{
+    width: 100%;
+
+}
+h2{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,0,00.5);
+    padding: 10px 0 ;
+    text-shadow: 1px 1px 1px black;
+
+}
+section{
+    width: 70%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
